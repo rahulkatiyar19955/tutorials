@@ -13,12 +13,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-3. Install Sphinx & its dependencies
+3. Install required dependencies
 ```bash
-pip install sphinx sphinx-autobuild sphinx_rtd_theme sphinx-autoapi
-```
-
-4. Update 'requirements.txt' file
-```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
