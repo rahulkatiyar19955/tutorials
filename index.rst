@@ -14,6 +14,7 @@ This documentation provides a comprehensive guide to developing robots. It cover
 
    introduction/index
    setup/index
+   github/index
 
 
 Indices and tables

@@ -55,8 +55,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv', 'venv', '_theme
 html_theme = 'alabaster'
 html_logo = 'images/robotDevEssential.png'
 
+# TODO: set the display_github to True, when the repository is opened by author
 html_context = {
-    "display_github": True, # Integrate GitHub
+    "display_github": False, # Integrate GitHub
     "github_user": "rahulkatiyar19955", # Username
     "github_repo": "tutorials", # Repo name
     "github_version": "main", # Version
@@ -96,7 +97,7 @@ else:
 
 
 
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False

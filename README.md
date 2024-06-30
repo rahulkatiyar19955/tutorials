@@ -17,3 +17,12 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4. Build the documentation
+```bash
+make html
+```
+
+5. Open the documentation
+```bash
+open _build/html/index.html
+```
