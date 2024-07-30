@@ -97,7 +97,10 @@ else:
 
 
 
-# html_static_path = ['_static']
+html_static_path = ['_static']
+html_css_files = [
+    'css/custom.css',
+]
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
