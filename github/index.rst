@@ -8,3 +8,4 @@ Here are some resources and guidelines for using GitHub.
 
    Branches
    Labels
+   GHCR_Authentication

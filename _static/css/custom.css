@@ -75,3 +75,7 @@
   padding: 0 0 0 15px;
   margin: 5px 0;
 }
+
+.shell-body .command .output {
+  color: #9fa09f;
+}

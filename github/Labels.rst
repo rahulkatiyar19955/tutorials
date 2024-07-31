@@ -11,7 +11,7 @@ Labels help categorize issues and pull requests in a repository, making it easie
 
 ===================
 Issue and Pull Request Labels
-===================
+===============================
 
 bug
 -----
@@ -21,28 +21,28 @@ bug
 * Helps prioritize bug fixes.
 
 do not merge
--------
+------------
 
 * **Description:** Not ready to be merged.
 * Use this label to mark pull requests that should not be merged.
 * Helps prevent accidental merging of incomplete work.
 
 documentation
--------
+-------------
 
 * **Description:** Improvements or additions to documentation.
 * Use this label to highlight issues or pull requests related to documentation.
 * Helps differentiate documentation work from code work.
 
 enhancement
--------
+-----------
 
 * **Description:** New feature or request.
 * Use this label to highlight issues that suggest enhancements.
 * Helps prioritize new feature development.
 
 good first issue
--------
+-----------------
 
 * **Description:** Good for newcomers.
 * Use this label to highlight beginner-friendly issues.
@@ -56,7 +56,7 @@ hotfix
 * Helps prioritize urgent fixes.
 
 refactor
--------
+---------
 
 * **Description:** Improves code quality.
 * Use this label to highlight issues or pull requests that focus on code refactoring.
@@ -68,5 +68,3 @@ wontfix
 * **Description:** This will not be worked on.
 * Use this label to mark issues that will not be addressed.
 * Helps communicate which issues are out of scope or won't be resolved.
-
-===================
